@@ -1,0 +1,18 @@
+# Ignorar ambientes virtuais
+venv/
+
+# Ignorar arquivos Python compilados
+*.pyc
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar configurações de IDE
+.vscode/
+.idea/
+
+# Ignorar arquivos de checkpoints do Jupyter
+*-checkpoint.py
+
+# Ignorar arquivos de configuração de dependências
+Pipfile.lock
